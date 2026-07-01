@@ -30,7 +30,7 @@ A structured dataset of Arabic poetry scraped from https://www.aldiwan.net, one 
 
 ---
 
-## Poems Dataset (`[Arabic Poetry Dataset](https://huggingface.co/datasets/Fatimah8Moheeb/Arabic-Poetry-Dataset)`)
+## Poems Dataset ( [Arabic Poetry Dataset](https://huggingface.co/datasets/Fatimah8Moheeb/Arabic-Poetry-Dataset) )
 
 
 | Column | Description |
