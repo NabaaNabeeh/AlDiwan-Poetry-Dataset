@@ -8,7 +8,7 @@ A structured dataset of Arabic poetry scraped from https://www.aldiwan.net, one 
 
 | Dataset | Rows | Description |
 |---|---|---|
-| `poets_clean.csv` | ~2,561 | One row per poet |
+| `final_poets.csv` | ~2,561 | One row per poet |
 | `final_poems.csv` | ~115,000 | One row per poem |
 
 ---
@@ -40,7 +40,6 @@ A structured dataset of Arabic poetry scraped from https://www.aldiwan.net, one 
 | `full_text` | Complete poem text |
 | `poet_name` | Poet's name |
 | `era` | Literary era |
-| `poem_type` | Type (عمودية, تفعيلة, نثرية) |
 | `theme` | Poem theme/topic |
 | `verses_count` | Number of verses |
 | `source_url` | Poem's URL |
