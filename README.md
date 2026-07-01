@@ -13,7 +13,7 @@ A structured dataset of Arabic poetry scraped from https://www.aldiwan.net, one 
 
 ---
 
-## Poets Dataset (`poets_clean.csv`)
+## Poets Dataset (`final_poets.csv`)
 
 | Column | Description |
 |---|---|
