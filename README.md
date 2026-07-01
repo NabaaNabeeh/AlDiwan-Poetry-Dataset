@@ -48,7 +48,7 @@ A structured dataset of Arabic poetry scraped from https://www.aldiwan.net, one 
 
 ## Team Members
 
--
+- Nabaa Alaswad
 -
 
 ---
