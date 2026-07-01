@@ -9,7 +9,7 @@ A structured dataset of Arabic poetry scraped from https://www.aldiwan.net, one 
 | Dataset | Rows | Description |
 |---|---|---|
 | `final_poets.csv` | ~2,561 | One row per poet |
-| `final_poems.csv` | ~115,000 | One row per poem |
+| `final_poems.csv` | ~116,830 | One row per poem |
 
 ---
 
@@ -31,6 +31,7 @@ A structured dataset of Arabic poetry scraped from https://www.aldiwan.net, one 
 ---
 
 ## Poems Dataset (`final_poems.csv`)
+[Arabic Poetry Dataset](https://huggingface.co/datasets/Fatimah8Moheeb/Arabic-Poetry-Dataset)
 
 | Column | Description |
 |---|---|
