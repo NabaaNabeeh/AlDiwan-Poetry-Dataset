@@ -1,4 +1,4 @@
-# AlDiwan-Poetry-Dataset
+# AlDiwan-Poetry-Dataset-scraped
 
 A structured dataset of Arabic poetry scraped from https://www.aldiwan.net, one of the largest Arabic poetry websites. The dataset covers poets and poems spanning from different literary eras.
 
